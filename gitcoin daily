@@ -1,7 +1,7 @@
 # Logs 
 logs  
-*.log  day3
-npm-debug.log*
+*.log  
+npm-debug.log*  day4
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
